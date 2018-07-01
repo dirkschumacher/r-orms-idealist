@@ -6,6 +6,7 @@ A project idea list for Operations Research in R.
 
 * [SCIP](http://scip.zib.de/) solver bindings on CRAN
 * Create a GLPK Package that supports callbacks
+* Patch all packages to support initial feasible solutions (if the solver supports it)
 * R packages for [Google OR Tools](https://developers.google.com/optimization/)
      * GLOP for LPs
      * CP solver
