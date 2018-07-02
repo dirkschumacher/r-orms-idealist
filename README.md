@@ -23,3 +23,8 @@ A project idea list for Operations Research in R.
 
 * Create a package to read/write LP files
 * Create a package to read/write MPS files
+
+## Tutorials
+
+* Article on meta-heuristics and R
+* Article on column generation for MILP and R
